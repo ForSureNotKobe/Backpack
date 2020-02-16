@@ -10,7 +10,7 @@ public class Bag {
 
     private int bagNumber = 0;
     private int weightEndurance = 10;
-    private int Capacity = 10;
+    private int Capacity = 100;
     private ArrayList<Product> packerList = new ArrayList<>();
 
     public int getCapacity() {
